@@ -1,0 +1,8 @@
+Testing message: 00
+    Success: 100/100, Fail: 0/100
+Testing message: 01
+    Success: 100/100, Fail: 0/100
+Testing message: 10
+    Success: 100/100, Fail: 0/100
+Testing message: 11
+    Success: 100/100, Fail: 0/100

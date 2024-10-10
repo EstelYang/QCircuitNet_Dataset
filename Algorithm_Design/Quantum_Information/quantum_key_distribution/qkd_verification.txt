@@ -1,0 +1,43 @@
+Verifying Quantum Key Distribution algorithm for n=20
+Test 1: running qkd_n20_trial3_True.qasm
+    Success: 96/100, Fail: 4/100
+Test 2: running qkd_n20_trial5_True.qasm
+    Success: 92/100, Fail: 8/100
+Test 3: running qkd_n20_trial5_False.qasm
+    Success: 100/100, Fail: 0/100
+Test 4: running qkd_n20_trial10_True.qasm
+    Success: 76/100, Fail: 24/100
+Test 5: running qkd_n20_trial8_False.qasm
+    Success: 100/100, Fail: 0/100
+Test 6: running qkd_n20_trial8_True.qasm
+    Success: 89/100, Fail: 11/100
+Test 7: running qkd_n20_trial2_True.qasm
+    Success: 94/100, Fail: 6/100
+Test 8: running qkd_n20_trial2_False.qasm
+    Success: 100/100, Fail: 0/100
+Test 9: running qkd_n20_trial4_True.qasm
+    Success: 96/100, Fail: 4/100
+Test 10: running qkd_n20_trial7_False.qasm
+    Success: 100/100, Fail: 0/100
+Test 11: running qkd_n20_trial9_True.qasm
+    Success: 91/100, Fail: 9/100
+Test 12: running qkd_n20_trial1_True.qasm
+    Success: 85/100, Fail: 15/100
+Test 13: running qkd_n20_trial4_False.qasm
+    Success: 100/100, Fail: 0/100
+Test 14: running qkd_n20_trial9_False.qasm
+    Success: 100/100, Fail: 0/100
+Test 15: running qkd_n20_trial7_True.qasm
+    Success: 73/100, Fail: 27/100
+Test 16: running qkd_n20_trial1_False.qasm
+    Success: 100/100, Fail: 0/100
+Test 17: running qkd_n20_trial6_False.qasm
+    Success: 100/100, Fail: 0/100
+Test 18: running qkd_n20_trial6_True.qasm
+    Success: 89/100, Fail: 11/100
+Test 19: running qkd_n20_trial10_False.qasm
+    Success: 100/100, Fail: 0/100
+Test 20: running qkd_n20_trial3_False.qasm
+    Success: 100/100, Fail: 0/100
+
+Total Success: 1881/2000

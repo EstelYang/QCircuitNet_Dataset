@@ -1,0 +1,36 @@
+Verifying QRNG for n = 2
+    Testing 2^2 * 100 times
+      Chi-Squared Test: Statistic=1.7000000000000002, P-value=0.6369337956527392
+       Autocorrelation Coefficient: -0.043033138181302125
+       Entropy: 1.9969200925983224 bits
+       RNG Valid: True
+Verifying QRNG for n = 3
+    Testing 2^3 * 100 times
+      Chi-Squared Test: Statistic=6.02, P-value=0.537416001862043
+       Autocorrelation Coefficient: -0.0033548172502568556
+       Entropy: 2.994543355310699 bits
+       RNG Valid: True
+Verifying QRNG for n = 4
+    Testing 2^4 * 100 times
+      Chi-Squared Test: Statistic=13.56, P-value=0.5591267652979692
+       Autocorrelation Coefficient: 0.01754601039828882
+       Entropy: 3.9938132905987147 bits
+       RNG Valid: True
+Verifying QRNG for n = 5
+    Testing 2^5 * 100 times
+      Chi-Squared Test: Statistic=33.14, P-value=0.36313655080445056
+       Autocorrelation Coefficient: -0.012935877778667958
+       Entropy: 4.992527508740153 bits
+       RNG Valid: True
+Verifying QRNG for n = 6
+    Testing 2^6 * 100 times
+      Chi-Squared Test: Statistic=84.28, P-value=0.0379965441101042
+       Autocorrelation Coefficient: -0.012153101735712456
+       Entropy: 5.990423557902347 bits
+       RNG Valid: False
+Verifying QRNG for n = 7
+    Testing 2^7 * 100 times
+      Chi-Squared Test: Statistic=123.0, P-value=0.5838333539117762
+       Autocorrelation Coefficient: 0.017670948975625007
+       Entropy: 6.99307055255777 bits
+       RNG Valid: True

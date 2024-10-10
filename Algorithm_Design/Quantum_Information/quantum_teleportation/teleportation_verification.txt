@@ -1,0 +1,22 @@
+    Running Test Case 1
+    Success: 100/100, Fail: 0/100
+    Running Test Case 2
+    Success: 100/100, Fail: 0/100
+    Running Test Case 3
+    Success: 100/100, Fail: 0/100
+    Running Test Case 4
+    Success: 100/100, Fail: 0/100
+    Running Test Case 5
+    Success: 100/100, Fail: 0/100
+    Running Test Case 6
+    Success: 100/100, Fail: 0/100
+    Running Test Case 7
+    Success: 100/100, Fail: 0/100
+    Running Test Case 8
+    Success: 100/100, Fail: 0/100
+    Running Test Case 9
+    Success: 100/100, Fail: 0/100
+    Running Test Case 10
+    Success: 100/100, Fail: 0/100
+    Total Success: 1000/1000, Total Fail: 0/1000
+

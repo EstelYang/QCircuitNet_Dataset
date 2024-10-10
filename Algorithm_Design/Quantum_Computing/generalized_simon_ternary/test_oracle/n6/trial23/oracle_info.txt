@@ -1,0 +1,2 @@
+Secret string: 212110
+Key string: 120220

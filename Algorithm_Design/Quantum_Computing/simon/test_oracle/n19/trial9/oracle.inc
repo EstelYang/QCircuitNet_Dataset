@@ -1,0 +1,35 @@
+gate Oracle _gate_q_0, _gate_q_1, _gate_q_2, _gate_q_3, _gate_q_4, _gate_q_5, _gate_q_6, _gate_q_7, _gate_q_8, _gate_q_9, _gate_q_10, _gate_q_11, _gate_q_12, _gate_q_13, _gate_q_14, _gate_q_15, _gate_q_16, _gate_q_17, _gate_q_18, _gate_q_19, _gate_q_20, _gate_q_21, _gate_q_22, _gate_q_23, _gate_q_24, _gate_q_25, _gate_q_26, _gate_q_27, _gate_q_28, _gate_q_29, _gate_q_30, _gate_q_31, _gate_q_32, _gate_q_33, _gate_q_34, _gate_q_35, _gate_q_36, _gate_q_37 {
+  cx _gate_q_0, _gate_q_19;
+  cx _gate_q_1, _gate_q_20;
+  cx _gate_q_2, _gate_q_21;
+  cx _gate_q_3, _gate_q_22;
+  cx _gate_q_4, _gate_q_23;
+  cx _gate_q_5, _gate_q_24;
+  cx _gate_q_6, _gate_q_25;
+  cx _gate_q_7, _gate_q_26;
+  cx _gate_q_8, _gate_q_27;
+  cx _gate_q_9, _gate_q_28;
+  cx _gate_q_10, _gate_q_29;
+  cx _gate_q_11, _gate_q_30;
+  cx _gate_q_12, _gate_q_31;
+  cx _gate_q_13, _gate_q_32;
+  cx _gate_q_14, _gate_q_33;
+  cx _gate_q_15, _gate_q_34;
+  cx _gate_q_16, _gate_q_35;
+  cx _gate_q_17, _gate_q_36;
+  cx _gate_q_18, _gate_q_37;
+  cx _gate_q_2, _gate_q_21;
+  cx _gate_q_2, _gate_q_27;
+  cx _gate_q_2, _gate_q_29;
+  cx _gate_q_2, _gate_q_30;
+  cx _gate_q_2, _gate_q_31;
+  cx _gate_q_2, _gate_q_34;
+  cx _gate_q_2, _gate_q_36;
+  x _gate_q_20;
+  x _gate_q_23;
+  x _gate_q_29;
+  x _gate_q_30;
+  x _gate_q_31;
+  x _gate_q_33;
+  x _gate_q_34;
+}

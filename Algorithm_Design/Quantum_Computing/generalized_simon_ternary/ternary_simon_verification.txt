@@ -1,0 +1,10 @@
+Verifying Ternary Simon's Algorithm for n=3
+   Running Test Case 1
+        Success: 10/10, Fail: 0/10
+   Running Test Case 2
+        Success: 10/10, Fail: 0/10
+   Running Test Case 3
+        Success: 10/10, Fail: 0/10
+   Running Test Case 4
+        Success: 10/10, Fail: 0/10
+   Total Success: 40; Total Fail: 0

@@ -1,0 +1,17 @@
+OPENQASM 3;
+include "stdgates.inc";
+include "oracle.inc";
+bit[4] c1;
+qubit[7] q8;
+h q8[0];
+h q8[1];
+h q8[2];
+h q8[6];
+Oracle q8[0], q8[1], q8[2], q8[3], q8[4], q8[5], q8[6];
+h q8[0];
+h q8[1];
+h q8[2];
+c1[3] = measure q8[6];
+c1[0] = measure q8[0];
+c1[1] = measure q8[1];
+c1[2] = measure q8[2];
