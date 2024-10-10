@@ -409,9 +409,3 @@ By applying this hierarchical sampling procedure, we significantly reduced the d
 # 🔊 Download
 
 We host a demo version of the dataset on this GitHub repository to illustrate its structure and provide sample data. For the complete dataset, please download it from [Google Drive](https://drive.google.com/file/d/1Z__0PfOoHT9gz2I_Gc3S1zrbSrUMswqL/view?usp=share_link).
-
-# 😄 Citation and Tech Report
-If you use QCirtNet in your research, please cite the following paper:
-```
-(Fill in the ArXiv BiBTex)
-```
